@@ -1,4 +1,4 @@
-# Senior Services Sales & Services Data Model
+# Senior Care Sales & Services Data Model
 
 This repository contains mock data and an analytics-ready data model built for a fictional Senior Services sales company. The goal is to demonstrate analytics engineering concepts using dbt, PostgreSQL, and real-world-style datasets.
 
@@ -51,7 +51,7 @@ This project simulates a scenario where a home healthcare company:
 
 ## 👤 Author
 
-Created by Andrew
+Created by Andrew.
 For questions or collaborations, reach out on [andreweaster.3587@gmail.com]
 
 ---
